@@ -42,7 +42,7 @@
 
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/coder-abdulaziz/coder-abdulaziz/blob/main/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=icodernet&pretty=true&icon=5&color=12)](https://visitcount.itsvg.in)
